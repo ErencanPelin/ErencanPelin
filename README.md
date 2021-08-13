@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erencan Pelin!
 - 👀 I’m interested in cyber security, interactive entertainment, games dev & app development. I also have a keen interest in AI!
 - 🌱 I’m currently learning cyber security & studying IT
-- 💞️ I’m looking to collaborate on anything game development related!
+- 💞️ I’m looking to collaborate on anything game, app or software development related!
 - 📫 How to reach me: Send me an email on: erencan.pelin@gmail.com
 - Check out my YouTube channel where I teach game development & C# : https://www.youtube.com/craazypelican
 
