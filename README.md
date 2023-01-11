@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Erencan Pelin!
-- 👀 I’m interested in cyber security, interactive entertainment, games dev & app development. I also have a keen interest in AI!
-- 🌱 I’m currently learning cyber security & studying a bachelor of science in IT & a bachelor of creative intelligence and innovation
-- 💞️ I’m looking to collaborate on anything game, app or software development related!
-- 📫 How to reach me: Send me an email on: erenp.business@gmail.com
-- Check out my YouTube channel where I teach game development & C# : https://www.youtube.com/@erengamedev
+# Hi, I’m Erencan Pelin!
+Application Developer currently 3rd Year studying a Bachelor's Degree in Science in IT and Creative Intelligence & Innovation at the University of Technology in Sydney. 
+I create C# Game development tutorials on YouTube while also developing commercial games, modular tool kits, & APIs for other developers to use in their own games.
+
+## Links
+| [Email](mailto:erenp.business@gmail.com?subject=Hi%20there!) | [YouTube](https://www.youtube.com/@erengamedev) | [Itch.io](https://erensoftworks.itch.io/) | [LinkedIn](https://www.linkedin.com/in/erencan-pelin/) | [Website](https://erensoftworks.wordpress.com/) |
+|-|-|-|-|-|
