@@ -1,7 +1,25 @@
-# Hi, I’m Erencan Pelin!
-Application Developer currently 3rd Year studying a Bachelor's Degree in Science in IT and Creative Intelligence & Innovation at the University of Technology in Sydney. 
-I create C# Game development tutorials on YouTube while also developing commercial games, modular tool kits, & APIs for other developers to use in their own games.
+<h1 align="center">
+  Hey! I'm Erencan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/erencan-pelin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Itch-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br>
 
-## Links
-| [Email](mailto:erenp.business@gmail.com?subject=Hi%20there!) | [YouTube](https://www.youtube.com/@erengamedev) | [Itch.io](https://erensoftworks.itch.io/) | [LinkedIn](https://www.linkedin.com/in/erencan-pelin/) | [Website](https://erensoftworks.wordpress.com/) |
-|-|-|-|-|-|
+- :telescope: 3rd Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
+- :seedling: Exploring Cloud and Network Security.
+- :zap: In my free time, I create Games and share Game Development Tutorials on YouTube.
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
