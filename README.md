@@ -19,7 +19,9 @@
 <br>
 
 - :telescope: 3rd Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
+
 - :seedling: Exploring Cloud and Network Security.
+
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube.
 
 <br>
