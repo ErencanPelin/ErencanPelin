@@ -31,8 +31,8 @@ I am a Full stack Software, Apps & Games developer
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=dark)](https://git.io/streak-stats)
 
 <br>
 
