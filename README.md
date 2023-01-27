@@ -22,7 +22,7 @@
 
 ### :books: About Me :
 I am a Full stack Software, Apps & Games developer
-- :telescope: 3rd Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
+- :telescope: Final Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
 
 - :seedling: Exploring Cloud and Network Security.
 
