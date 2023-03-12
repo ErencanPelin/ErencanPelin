@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/erencan-pelin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@erengamedev">
+  <a href="https://www.youtube.com/channel/UC9VfAEMZp9-6LqlxZ0j4BMw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8044245970770623311">
