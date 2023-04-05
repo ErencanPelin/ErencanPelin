@@ -23,10 +23,9 @@
 ### :books: About Me :
 I am a Full stack Software, Apps & Games developer
 - :telescope: Final Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
-
 - :seedling: Exploring Cloud and Network Security.
-
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube.
+- 💻 My main languages are C# and Flutter
 <br>
 
 ### :fire: My Stats :
