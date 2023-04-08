@@ -30,8 +30,9 @@ I am a Full stack Software, Apps & Games developer
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=tokyonight)](https://github.com/erencanpelin)
+[![Erencan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencanpelin&include_all_commits=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/erencanpelin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&langs_count=6&hide=shaderlab,cmake&theme=tokyonight)](https://github.com/erencanpelin)
 
 <br>
 
