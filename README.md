@@ -33,8 +33,8 @@ I am a Full stack Software, Apps & Games developer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=tokyonight)](https://github.com/erencanpelin)
 [![Erencan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencanpelin&include_all_commits=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/erencanpelin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&count_private=true&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/erencanpelin)
-
-<br>
+<br>Note: Top languages does not count private contributions
+<br><br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
