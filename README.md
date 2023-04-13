@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey! I'm Erencan
+  Hi! I'm Erencan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
@@ -21,11 +21,11 @@
 ---
 
 ### :books: About Me :
-I am a Full stack Software, Apps & Games developer
+I am a Full Stack Software, App & Game Developer
 - :telescope: Final Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
-- :seedling: Exploring Cloud and Network Security.
+- :seedling: Exploring Cloud, Network and Cyber Security.
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube.
-- 💻 My main languages are C# and Flutter
+- 💻 My main languages are C# and Dart
 <br>
 
 ### :fire: My Stats :
