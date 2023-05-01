@@ -22,9 +22,9 @@
 
 ### :books: About Me :
 I am a Full Stack Software, App & Game Developer
-- :telescope: Final Year IT student studying a Bachelor of Sceince in Information Technology and Bachelor of Creative Intelligence & Innovation
-- :seedling: Exploring Cloud, Network and Cyber Security.
-- :zap: In my free time, I create Games and share Game Development Tutorials on YouTube.
+- :telescope: Final Year IT student studying a Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation
+- :seedling: Exploring Cloud, Network and Cyber Security
+- :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
 - 💻 My main languages are C# and Dart
 <br>
 
