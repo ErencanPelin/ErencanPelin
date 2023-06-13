@@ -31,7 +31,7 @@ I am a Full Stack Software & App developer and Atlassian Intern
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=tokyonight)](https://github.com/erencanpelin)
-[![Erencan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencanpelin&include_all_commits=true&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
+[![Erencan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencanpelin&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/erencanpelin)
 <br>Note: Top languages does not count private contributions
@@ -44,7 +44,7 @@ I am a Full Stack Software & App developer and Atlassian Intern
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
