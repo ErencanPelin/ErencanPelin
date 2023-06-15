@@ -32,7 +32,7 @@ I am a Full Stack Software & App developer and Atlassian Intern
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erencanpelin&theme=tokyonight)](https://github.com/erencanpelin)
 [![Erencan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erencanpelin&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
-
+[![Erencan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErencanPelin&theme=tokyo-night&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erencanpelin&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/erencanpelin)
 <br>Note: Top languages does not count private contributions
 <br><br>
