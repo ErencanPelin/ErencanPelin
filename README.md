@@ -9,6 +9,9 @@
   <a href="https://www.youtube.com/channel/UC9VfAEMZp9-6LqlxZ0j4BMw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://twitter.com/ErenFromPillow">
+    <img src="https://img.shields.io/badge/Twitter-4488ff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://play.google.com/store/apps/dev?id=8044245970770623311">
     <img src="https://img.shields.io/badge/Google Play-grey?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Badge"/>
   </a>
