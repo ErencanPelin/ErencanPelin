@@ -29,6 +29,7 @@ I am a Full Stack Software & App developer and Atlassian Intern
 - :seedling: Exploring Cloud, Network and Cyber Security
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
 - 💻 My main languages are C#, Dart, Javascript & Typescript
+- Founder of [Pillow Software](https://pillowsoftware.webflow.io/), Helping businesses grow by building apps and MVPs
 <br>
 
 ### :fire: My Stats :
