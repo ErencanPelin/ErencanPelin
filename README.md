@@ -2,6 +2,9 @@
   Hi! I'm Erencan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p align="center">
+  But feel free to call me Eren!
+</p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/erencan-pelin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,7 +27,7 @@
 ---
 
 ### :books: About Me :
-I am a Full Stack Software & App developer and Atlassian Intern
+I am a Software Engineering Intern at Atlassian
 - :telescope: Final Year IT student studying a Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation
 - :seedling: Exploring Cloud, Network and Cyber Security
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
