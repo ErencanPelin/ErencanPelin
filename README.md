@@ -27,7 +27,7 @@
 ---
 
 ### :books: About Me :
-I am a Software Engineering Intern at Atlassian
+I am a Software Engineering Graduate at Atlassian
 - :telescope: Final Year IT student studying a Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation
 - :seedling: Exploring Cloud, Network and Cyber Security
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
