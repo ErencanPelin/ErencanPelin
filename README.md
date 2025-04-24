@@ -27,11 +27,11 @@
 ---
 
 ### :books: About Me :
-I am a Software Engineering Graduate at Atlassian
-- :telescope: Final Year IT student studying a Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation
+I am a cloud networking software engineer at Atlassian
+- :telescope: Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation Graduate from UTS
 - :seedling: Exploring Cloud, Network and Cyber Security
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
-- 💻 My main languages are C#, Dart, Javascript & Typescript
+- 💻 My main languages are C#, Python, Javascript & Typescript
 <br>
 
 ### :fire: My Stats :
