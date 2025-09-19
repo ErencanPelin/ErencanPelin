@@ -21,7 +21,7 @@
 ---
 
 ### :books: About Me :
-I am a cloud networking software engineer at Atlassian
+I am a networking software engineer at Atlassian
 - :telescope: Bachelor of Science in Information Technology and Bachelor of Creative Intelligence & Innovation Graduate from UTS
 - :seedling: Exploring Cloud, Network and Cyber Security
 - :zap: In my free time, I create Games and share Game Development Tutorials on YouTube
